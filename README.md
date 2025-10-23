@@ -2,8 +2,8 @@
 
 ## *Команда*:
 
-Косолапова Екатерина, Б01-401, kosolapova.ea@phystech.edu
-Скотников Антон, Б01-406, skotnikov.aa@phystech.edu
+Косолапова Екатерина, Б01-401, kosolapova.ea@phystech.edu\
+Скотников Антон, Б01-406, skotnikov.aa@phystech.edu\
 Рябов Иван, Б01-406.
 
 На данный момент тут представлены 3 файла:
