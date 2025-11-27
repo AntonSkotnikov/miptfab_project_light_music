@@ -6,7 +6,7 @@ PLOT_LENGTH = 5000
 
 serialInst = serial.Serial()
 serialInst.baudrate = 115200
-serialInst.port = "YOUR OWN PORT" #for example, "/dev/cu.usbserial-0001" or "/dev/ttyUSB0"
+serialInst.port = "/dev/cu.usbserial-0001" #for example, "/dev/cu.usbserial-0001" or "/dev/ttyUSB0"
 
 serialInst.open()
 
